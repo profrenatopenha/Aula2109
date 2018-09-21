@@ -1,0 +1,8 @@
+select volume 4
+assign letter b
+select volume 1
+assign letter U
+select volume 3
+assign letter I
+select volume 2
+assign letter E
